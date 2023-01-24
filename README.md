@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ca/d0/f1/cad0f1e40535baadff07e9141f85f8b5.jpg)](https://rishavchanda.io)
+[![MasterHead](https://pbs.twimg.com/media/D-jmhnoU0AEGHeb.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hey, I'm Jonel Doña👋</h1>
 <h3 align="center">I'm an undergraduate student aspiring to be a Front-end Developer!</h3>
