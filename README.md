@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joneld&label=Profile%20views&color=0e75b6&style=flat" alt="jonelD" /> </p>
 
-- 🌱 I’m currently learning **Vanilla Javascript, Bootstrap, MySQL, XML**
+- 🌱 I’m currently learning **Vanilla Javascript, Laravel, Bootstrap, MySQL, XML**
 
 - 📫 How to reach me **jonelds4@gmail.com**
 
