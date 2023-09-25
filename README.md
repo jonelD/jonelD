@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jonelds4@gmail.com**
 
-- 💡 I'm currently not that much active because I'm doing a Database Management System for a certain company that has a lot of encoders.
+- 💡 Currently doing a Database Management System for a certain company that has a lot of encoders.
 
 <p align="left">
 </p>
